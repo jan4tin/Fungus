@@ -61,6 +61,8 @@
     <None Include="tpl\struct.header.tpl">
       <Filter>Header Files\TPL</Filter>
     </None>
-    <None Include="fungusUIClassTest.fungus" />
+    <None Include="fungusUIClassTest.fungus">
+      <Filter>Fungus files</Filter>
+    </None>
   </ItemGroup>
 </Project>
