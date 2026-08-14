@@ -1,0 +1,23 @@
+MODULE GPP
+Class MonActeur : AActor
+  PROPERTIES
+  [set,get,update]
+    int health = 100
+    float mana = 0.0f
+  [setcode, get, update]
+    bool isDead = false
+
+  [get, edit]
+    float EaseTiming = 0.0f
+    int Add = 0;
+
+  END
+
+  FUNCTIONS
+  [codeOnly]
+    void Hello:string
+
+  [callable]
+    void AskHello:bool
+  END
+END

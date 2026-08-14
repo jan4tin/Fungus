@@ -1,0 +1,11 @@
+STRUCT StructTest
+	PROPERTIES
+	[set,get]
+	bool isAStruct = true;
+	END
+
+	FUNCTIONS
+	[codeOnly]
+	void Lalala(bool value)
+	END
+END

@@ -1,0 +1,20 @@
+﻿  Fungus.cpp
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,71): warning C4244: 'initializing': conversion from 'ValueType' to 'int', possible loss of data
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,71): warning C4244:         with
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,71): warning C4244:         [
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,71): warning C4244:             ValueType=__int64
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,71): warning C4244:         ]
+  (compiling source file 'Fungus.cpp')
+  
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,27): warning C4244: 'initializing': conversion from 'ValueType' to 'const int', possible loss of data
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,27): warning C4244:         with
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,27): warning C4244:         [
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,27): warning C4244:             ValueType=__int64
+C:\Users\test\vcpkg\installed\x64-windows\include\inja\renderer.hpp(378,27): warning C4244:         ]
+  (compiling source file 'Fungus.cpp')
+  
+  Parser.cpp
+  Generating Code...
+  Fungus.vcxproj -> C:\Users\test\source\repos\Fungus\x64\Debug\Fungus.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
